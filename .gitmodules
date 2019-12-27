@@ -2,3 +2,8 @@
 	path = KonosCL/addons-konos
 	url = git@github.com:KonosCL/addons-konos.git
 	branch = 12.0
+
+[submodule "dimabe-odoo/RRHH"]
+	path = dimabe-odoo/RRHH
+	url = git@github.com:dimabe-odoo/RRHH.git
+	branch = master
